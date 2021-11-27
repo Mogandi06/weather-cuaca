@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weather-cuaca/static/css/main.b7d3109c.chunk.css",
+    "main.js": "/weather-cuaca/static/js/main.94a681f1.chunk.js",
+    "main.js.map": "/weather-cuaca/static/js/main.94a681f1.chunk.js.map",
+    "runtime-main.js": "/weather-cuaca/static/js/runtime-main.fcdfc1c3.js",
+    "runtime-main.js.map": "/weather-cuaca/static/js/runtime-main.fcdfc1c3.js.map",
+    "static/js/2.98a7d834.chunk.js": "/weather-cuaca/static/js/2.98a7d834.chunk.js",
+    "static/js/2.98a7d834.chunk.js.map": "/weather-cuaca/static/js/2.98a7d834.chunk.js.map",
+    "index.html": "/weather-cuaca/index.html",
+    "static/css/main.b7d3109c.chunk.css.map": "/weather-cuaca/static/css/main.b7d3109c.chunk.css.map",
+    "static/js/2.98a7d834.chunk.js.LICENSE.txt": "/weather-cuaca/static/js/2.98a7d834.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcdfc1c3.js",
+    "static/js/2.98a7d834.chunk.js",
+    "static/css/main.b7d3109c.chunk.css",
+    "static/js/main.94a681f1.chunk.js"
+  ]
+}
